@@ -1,15 +1,20 @@
 body{
-    background-color:lightcyan;
+    background-color:black;
 }
-h3 ,h2,h1{
-    color:lightseagreen;
-    font-style: italic;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+h1{
+    text-transform: lowercase;
+    font-size: 6px;
 }
-hr{
-    width: 20%;
-    border-style: none;
-    border-top-style:dotted ;
-    border-color: gray;
-    border-width: 5px;
+.poster{
+    width: 70%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color:white;
+    font-family:'libre Baskerville',serif ;
+    text-align: center;
+    font-size: 1.6rem;
+}
+.meme-img{
+    border: 5px solid white;
+    width: 100%;
 }

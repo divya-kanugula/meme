@@ -1,0 +1,15 @@
+body{
+    background-color:lightcyan;
+}
+h3 ,h2,h1{
+    color:lightseagreen;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr{
+    width: 20%;
+    border-style: none;
+    border-top-style:dotted ;
+    border-color: gray;
+    border-width: 5px;
+}
